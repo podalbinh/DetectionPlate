@@ -1,0 +1,11 @@
+com\web\detectionplate\resources\JakartaEE8Resource.class
+SaveLicensePlatesServlet.class
+UnregisteredLPHandler.class
+VideoUploadServlet.class
+dao\LicensePlateDao.class
+DeletePlateServlet.class
+dao\DatabaseConnection.class
+LPDetectionHandler.class
+models\LicensePlate.class
+com\web\detectionplate\JakartaRestConfiguration.class
+LicensePlateHandler.class

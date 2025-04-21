@@ -1,0 +1,11 @@
+D:\DetectionPlate\src\main\java\DeletePlateServlet.java
+D:\DetectionPlate\src\main\java\LPDetectionHandler.java
+D:\DetectionPlate\src\main\java\com\web\detectionplate\resources\JakartaEE8Resource.java
+D:\DetectionPlate\src\main\java\dao\LicensePlateDao.java
+D:\DetectionPlate\src\main\java\models\LicensePlate.java
+D:\DetectionPlate\src\main\java\LicensePlateHandler.java
+D:\DetectionPlate\src\main\java\com\web\detectionplate\JakartaRestConfiguration.java
+D:\DetectionPlate\src\main\java\UnregisteredLPHandler.java
+D:\DetectionPlate\src\main\java\VideoUploadServlet.java
+D:\DetectionPlate\src\main\java\dao\DatabaseConnection.java
+D:\DetectionPlate\src\main\java\SaveLicensePlatesServlet.java
